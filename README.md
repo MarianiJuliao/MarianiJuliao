@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Boas vindas ao meu perfil 💗💗
+
 Meu nome é Mariani Julião
 
 Estou estudando na Alura
